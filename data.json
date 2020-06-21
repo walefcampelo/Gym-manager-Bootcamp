@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://source.unsplash.com/collection/9647150/500x500",
+      "name": "sdadas",
+      "email": "sdsad@dsladas",
+      "birth": 7956835200000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "22",
+      "height": "222",
+      "id": 2
+    },
+    {
+      "avatar_url": "https://source.unsplash.com/collection/9647150/500x500",
+      "name": "Walef Campelo",
+      "email": "campelowalef@gmail.com",
+      "birth": 792460800000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "65",
+      "height": "175",
+      "id": 3
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Walef Campelo",
+      "avatar_url": "https://source.unsplash.com/collection/9647150/500x500",
+      "birth": 792460800000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1591482218841
+    },
+    {
+      "id": 2,
+      "name": "Izaélita Campelo",
+      "avatar_url": "https://source.unsplash.com/collection/9647150/500x500",
+      "birth": 766281600000,
+      "gender": "F",
+      "services": "Bunda, Perna",
+      "created_at": 1591482236407
+    }
+  ]
+}
